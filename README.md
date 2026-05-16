@@ -22,3 +22,31 @@ This project is a browser-based Tic Tac Toe game for two players. Players take t
 - JavaScript
 
 ## 📂 Project Structure
+Tic-Tac-Toe-Game/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+
+
+## 🚀 How to Run the Project
+
+1. Download or clone the repository.
+2. Open `index.html` in any web browser.
+3. Start playing the game.
+
+## 🎯 Future Improvements
+
+- Single-player mode with AI
+- Scoreboard
+- Sound effects
+- Dark mode
+
+## 👨‍💻 Author
+
+Zishan Ahmad  
+B.Tech Computer Science Student at Galgotias University
+
+## 📜 License
+
+This project is for learning and educational purposes.
