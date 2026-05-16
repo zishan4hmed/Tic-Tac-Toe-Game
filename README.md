@@ -23,10 +23,10 @@ This project is a browser-based Tic Tac Toe game for two players. Players take t
 
 ## 📂 Project Structure
 Tic-Tac-Toe-Game/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
+├── index.html      # Main HTML file
+├── style.css       # Styling for the game
+├── script.js       # Game logic and functionality
+└── README.md       # Project documentation
 
 
 ## 🚀 How to Run the Project
